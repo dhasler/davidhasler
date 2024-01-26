@@ -1,0 +1,1 @@
+import{_ as s,v as t,t as o,x as e}from"./entry.q4TxoQtX.js";const n={},c=e("h1",null,"Hello, I'm David Hasler",-1),_=e("h2",null,"This is the WIP site",-1),a=[c,_];function l(r,i){return o(),t("div",null,a)}const h=s(n,[["render",l]]);export{h as default};

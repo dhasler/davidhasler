@@ -1,1 +1,0 @@
-import{_ as e,v as t,t as o,x as s}from"./entry.Rr-kV7-I.js";const c={},n=s("h1",null,"Hello, I'm David Hasler",-1),a=[n];function r(_,l){return o(),t("div",null,a)}const i=e(c,[["render",r]]);export{i as default};
